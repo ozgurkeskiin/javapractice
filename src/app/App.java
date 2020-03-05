@@ -6,10 +6,4 @@ import homeworks.Hw3;
 
 public class App {
 
-    public static void main(String[] args) {
-        Hw3 hwThree = new Hw3();
-
-        hwThree.designPattern();
-
-    }
 }
